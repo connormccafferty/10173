@@ -1,8 +1,8 @@
 {
     "startup_app": {
-        "name": "OpenfinPOC",
-        "url": "http://localhost:5555/index.html",
-        "uuid": "OpenfinPOC",
+        "name": "OpenfinPOC-A",
+        "url": "http://localhost:5555/app_a.html",
+        "uuid": "OpenfinPOC-A",
         "applicationIcon": "http://localhost:5555/favicon.ico",
         "autoShow": true,
         "saveWindowState": true
